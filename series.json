@@ -1,0 +1,132 @@
+[
+    {
+        "nome": "Aventuras em Westland",
+        "qntTemporadas": 5,
+        "qntEpisodios": 60,
+        "tmpMedioEpisodio": 45,
+        "notaIMDB": 8.2,
+        "categoria": "Aventura",
+        "avaliacoes": [
+            "Excelente série cheia de ação e suspense!",
+            "Personagens bem desenvolvidos e trama envolvente.",
+            "Recomendo para fãs de aventura e mistério."
+        ]
+    },
+    {
+        "nome": "Mistérios Sombrios",
+        "qntTemporadas": 3,
+        "qntEpisodios": 30,
+        "tmpMedioEpisodio": 50,
+        "notaIMDB": 7.9,
+        "categoria": "Suspense",
+        "avaliacoes": [
+            "Intrigante do começo ao fim!",
+            "Ótima ambientação e fotografia.",
+            "Um suspense que te deixa grudado na tela."
+        ]
+    },
+    {
+        "nome": "Família Feliz",
+        "qntTemporadas": 8,
+        "qntEpisodios": 120,
+        "tmpMedioEpisodio": 25,
+        "notaIMDB": 8.5,
+        "categoria": "Comédia",
+        "avaliacoes": [
+            "Risos garantidos em cada episódio!",
+            "Histórias que aquecem o coração.",
+            "Uma série perfeita para assistir com a família."
+        ]
+    },
+    {
+        "nome": "Cidade das Sombras",
+        "qntTemporadas": 6,
+        "qntEpisodios": 72,
+        "tmpMedioEpisodio": 40,
+        "notaIMDB": 8.1,
+        "categoria": "Drama",
+        "avaliacoes": [
+            "Emocionante e cativante!",
+            "Aborda temas profundos de forma sensível.",
+            "Atuações brilhantes que te fazem refletir."
+        ]
+    },
+    {
+        "nome": "O Futuro Incerto",
+        "qntTemporadas": 4,
+        "qntEpisodios": 40,
+        "tmpMedioEpisodio": 55,
+        "notaIMDB": 8.3,
+        "categoria": "Ficção Científica",
+        "avaliacoes": [
+            "Uma visão fascinante do futuro!",
+            "Efeitos especiais impressionantes.",
+            "A trama te faz questionar sobre o destino da humanidade."
+        ]
+    },
+    {
+        "nome": "Renascer das Cinzas",
+        "qntTemporadas": 2,
+        "qntEpisodios": 20,
+        "tmpMedioEpisodio": 50,
+        "notaIMDB": 7.7,
+        "categoria": "Drama",
+        "avaliacoes": [
+            "História comovente de superação!",
+            "Personagens cativantes e bem construídos.",
+            "Um drama que mexe com as emoções do espectador."
+        ]
+    },
+    {
+        "nome": "Agentes Secretos",
+        "qntTemporadas": 7,
+        "qntEpisodios": 84,
+        "tmpMedioEpisodio": 35,
+        "notaIMDB": 8.0,
+        "categoria": "Ação",
+        "avaliacoes": [
+            "Ação non-stop!",
+            "Trama cheia de reviravoltas e surpresas.",
+            "Uma série que te deixa na ponta da cadeira!"
+        ]
+    },
+    {
+        "nome": "Amor Proibido",
+        "qntTemporadas": 4,
+        "qntEpisodios": 48,
+        "tmpMedioEpisodio": 30,
+        "notaIMDB": 7.8,
+        "categoria": "Romance",
+        "avaliacoes": [
+            "Um romance envolvente e proibido!",
+            "Química incrível entre os protagonistas.",
+            "Prepare-se para se emocionar com cada episódio."
+        ]
+    },
+    {
+        "nome": "Desvendando Enigmas",
+        "qntTemporadas": 5,
+        "qntEpisodios": 50,
+        "tmpMedioEpisodio": 45,
+        "notaIMDB": 8.4,
+        "categoria": "Mistério",
+        "avaliacoes": [
+            "Uma trama cheia de mistérios e conspirações!",
+            "Cada episódio é um quebra-cabeça a ser resolvido.",
+            "Prepare-se para ser surpreendido a cada revelação."
+        ]
+    },
+    {
+        "nome": "A Era dos Dragões",
+        "qntTemporadas": 3,
+        "qntEpisodios": 36,
+        "tmpMedioEpisodio": 60,
+        "notaIMDB": 8.6,
+        "categoria": "Fantasia",
+        "avaliacoes": [
+            "Um épico que vai te transportar para outro mundo!",
+            "Criaturas mágicas e batalhas épicas.",
+            "A fantasia ganha vida nessa série incrível."
+        ]
+    }
+]
